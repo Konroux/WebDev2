@@ -1,0 +1,203 @@
+
+.logo {
+	   background-color: 	black;
+	   display: block;
+	   width: 100%;
+
+}
+
+
+
+
+ul	{
+	
+	list-style-type:	none;
+    position:  relative;
+	background-color:		#808080;
+	height: 7.3%;
+	width: 100%;
+	font-family: "Courier New";
+	font-size: 250%;
+
+
+}
+
+li	{
+display:	inline;
+color: white;
+text-align:	center;
+}
+
+
+
+
+
+li	a:hover {
+background-color:	#cccccc;
+color:	black;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+	margin: 40px;
+
+}
+
+.active	{
+background-color:	#cccccc;
+color:	black;
+}
+
+body {
+	    background: black; 
+}
+
+footer {
+	      color: white;
+	      font-family: courier
+	      position: fixed;
+	      }
+
+.circle {
+	        border-radius: 50%;
+	        position: relative;
+}
+
+
+.link1 {
+	
+    position: absolute;
+    left: 5%;
+    top: 110%;
+    z-index: 2;
+    height: 30%;
+    width: 25%;
+}
+
+.link2 {
+	
+    position: absolute;
+    left: 38%;
+    top: 110%;
+    z-index: 2;
+    height: 30%;
+    width: 25%;
+}
+
+
+.link3 {
+	
+    position: absolute;
+    left: 70%;
+    top: 110%;
+    z-index: 2;
+    height: 30%;
+    width: 25%;
+}
+
+p {
+	color: white;
+}
+
+#column1 { 
+	       float: left; 
+	       background: -webkit-linear-gradient(#cccccc, black);
+	       height: 90%;
+	       width: 22%;
+	       text-align: center;
+	       font-family: Courier New;
+	       position: relative;
+
+}
+
+#column2 { 
+	       float: right;
+	       background: -webkit-linear-gradient(#cccccc, black);
+	       height: 80%;
+	       width: 78%;
+	       text-align: center;
+	       font-family: Courier;
+	       position: relative;
+
+}
+
+
+
+.photo {
+	    display: inline-block;
+	  
+}
+
+.album1{
+	     float: left;
+	     margin-left: 4%;
+	     display: block;
+	     width: 27%;
+	     height: 85%;
+	     background-color: black;
+}
+
+.album2{
+	     float: left;
+	     margin-left: 2%;
+	    
+	     display: block;
+	     width: 27%;
+	     height: 85%;
+	     background-color: black;
+}
+
+
+.album3{
+	     float: right;
+	    
+	     
+	     display: block;
+	     width: 27%;
+	     height: 85%;
+	     background-color: black;
+	     margin-right: 11%;
+}
+
+
+.test {
+
+	    clear: both;
+}
+
+h1 {
+
+	   color: white;
+	   font-family: courier;
+	   text-align: center;
+
+}
+
+#media1 {
+
+	       display: block;
+	       width: 100%;
+	       
+	       background-color: black;
+	       
+	       
+	     }
+.x {
+
+	   float: left;
+}
+
+	       
+.paragraph {
+
+	          text-align: center;
+	          color: white;
+	         
+	          
+}
+
+.finalposter {
+
+	            float: right;
+}
